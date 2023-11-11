@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://psancheti110.github.io/sitemap-index.xml
+Host: https://psancheti110.github.io
